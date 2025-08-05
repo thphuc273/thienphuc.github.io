@@ -1,0 +1,91 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Phuc Nguyen
+theme: "PaperMod"
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 40
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 50
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Felix Nguyen"
+    subtitle: Hi 👋 I'm Felix Nguyen, a passionate and curious learner with a strong interest in Artificial Intelligence. I'm constantly exploring new technologies and improving my skills with the goal of becoming an AI Engineer. I believe in the power of data and intelligent systems to solve real-world problems, and I’m excited to contribute to the future of AI.
+ 
+    imageUrl: "images/phuc.png"
+    imageWidth: 250
+    imageHeight: 250
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:thphuc27.working@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/phuc273"
+    - name: "github"
+      url: ""
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+taxonomies:
+  category: categories
+  tag: tags
+
