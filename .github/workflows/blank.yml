@@ -41,9 +41,9 @@ jobs:
         with:
           # personal_token: ${{ secrets.GITHUB_TOKEN }}
           deploy_key: ${{ secrets.privatekey }}
-          external_repository: thachpham2k/thachpham2k.github.io
+          external_repository: thphuc273/thienphuc.github.io
           publish_dir: ./public
-          # user_name: thachpham2k
-          # user_email: phamthach2506@gmail.com
+          # user_name: thienphuc
+          # user_email: thphucnguyen2703@gmail.com
           publish_branch: master
           allow_empty_commit: true
