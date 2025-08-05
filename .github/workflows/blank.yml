@@ -39,8 +39,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.9.3
         with:
-          # personal_token: ${{ secrets.GITHUB_TOKEN }}
-          deploy_key: ${{ secrets.privatekey }}
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: thphuc273/thienphuc.github.io
           publish_dir: ./public
           # user_name: thienphuc
