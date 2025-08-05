@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phuc Nguyen</title>
-    <link>https://example.org/</link>
+    <link>https://thphuc273.github.io/</link>
     <description>Recent content on Phuc Nguyen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thphuc273.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kindle to Notion</title>
-      <link>https://example.org/blog/test/</link>
+      <link>https://thphuc273.github.io/blog/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/blog/test/</guid>
+      <guid>https://thphuc273.github.io/blog/test/</guid>
       <description>&lt;h1 id=&#34;-intro&#34;&gt;✏️ Intro&lt;/h1&gt;&#xA;&lt;p&gt;If you’re like me who loves reading books on Kindle, you might have wondered how you could extract your highlights in an organized way and save them as notes. At least I did. You see, I use Notion as my primary note-taking/productivity management app and I already have a database of all the books that I have read so far and also the ones that I am planning to read next.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Example project</title>
-      <link>https://example.org/projects/test/</link>
+      <link>https://thphuc273.github.io/projects/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/test/</guid>
+      <guid>https://thphuc273.github.io/projects/test/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>https://thphuc273.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/</guid>
-      <description>&lt;img src=&#34;https://example.org/images/phuc.png&#34; alt=&#34;avatar&#34; width=&#34;150&#34; style=&#34;border-radius: 50%; margin-bottom: 1rem;&#34;&gt;&#xA;&lt;h2 id=&#34;-about-me&#34;&gt;👋 About Me&lt;/h2&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Felix — a fresh graduate Information Technology student at the University of Science, VNU-HCM, with a strong passion for Machine Learning, Deep Learning, and Model Interpretability.&lt;/p&gt;&#xA;&lt;p&gt;Over the past few years, I&amp;rsquo;ve been exploring the power of intelligent systems to solve real-world problems, from NLP model interpretability to student performance prediction and medical image segmentation. My goal is to build AI systems that are not only powerful, but also explainable and trustworthy.&lt;/p&gt;</description>
+      <guid>https://thphuc273.github.io/about/</guid>
+      <description>&lt;img src=&#34;https://thphuc273.github.io/images/phuc.png&#34; alt=&#34;avatar&#34; width=&#34;150&#34; style=&#34;border-radius: 50%; margin-bottom: 1rem;&#34;&gt;&#xA;&lt;h2 id=&#34;-about-me&#34;&gt;👋 About Me&lt;/h2&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Felix — a fresh graduate Information Technology student at the University of Science, VNU-HCM, with a strong passion for Machine Learning, Deep Learning, and Model Interpretability.&lt;/p&gt;&#xA;&lt;p&gt;Over the past few years, I&amp;rsquo;ve been exploring the power of intelligent systems to solve real-world problems, from NLP model interpretability to student performance prediction and medical image segmentation. My goal is to build AI systems that are not only powerful, but also explainable and trustworthy.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

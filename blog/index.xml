@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Phuc Nguyen</title>
-    <link>https://example.org/blog/</link>
+    <link>https://thphuc273.github.io/blog/</link>
     <description>Recent content in Blogs on Phuc Nguyen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thphuc273.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kindle to Notion</title>
-      <link>https://example.org/blog/test/</link>
+      <link>https://thphuc273.github.io/blog/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/blog/test/</guid>
+      <guid>https://thphuc273.github.io/blog/test/</guid>
       <description>&lt;h1 id=&#34;-intro&#34;&gt;✏️ Intro&lt;/h1&gt;&#xA;&lt;p&gt;If you’re like me who loves reading books on Kindle, you might have wondered how you could extract your highlights in an organized way and save them as notes. At least I did. You see, I use Notion as my primary note-taking/productivity management app and I already have a database of all the books that I have read so far and also the ones that I am planning to read next.&lt;/p&gt;</description>
     </item>
   </channel>
